@@ -1,0 +1,38 @@
+#titull
+
+{color:red;
+background-color: blue;
+}
+
+.m {
+color: red;
+font-size: 22px;
+}
+
+body{
+text-align: center;
+
+}
+
+.mybutton
+{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 3px;
+    border-color: red;
+
+
+}
+
+.Calculator
+{
+    display: inline-grid;
+    margin-left: 10px;
+
+}
+.calculator-element
+{
+margin-top: 20px;
+
+}

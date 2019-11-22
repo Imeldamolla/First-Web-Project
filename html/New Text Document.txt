@@ -1,0 +1,28 @@
+
+
+
+body{ 
+ background-color: teal;
+ font-family: roboto;
+ text-align: center;
+ padding: 20px;
+}
+.title{
+    color: white;
+}
+.list{
+    list-style-type: none;
+}
+body> .list {
+    text-align: left;
+}
+.list>li {
+    background-color: lightblue;
+    widows: 200px;
+    border-radius: 7px;
+    text-align: center;
+    padding: 4px;
+    font-weight: 500;
+    margin: 5px;
+    display: inline-block;
+}
